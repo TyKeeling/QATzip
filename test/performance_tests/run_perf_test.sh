@@ -1,3 +1,6 @@
+#! /bin/bash
+set -e
+
 #***************************************************************************
 #
 #   BSD LICENSE
@@ -32,9 +35,6 @@
 #   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 #**************************************************************************
-
-#! /bin/bash
-set -e
 
 rm -f result_comp
 rm -f result_decomp
